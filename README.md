@@ -1,5 +1,9 @@
 # SavePaws
 
+
+Welcome to SavePaws!
+At SavePaws, we're dedicated to finding loving homes for pets in need. Our goal is to make the adoption process as smooth and rewarding as possible, connecting you with your perfect furry friend.
+
 1. Browse Pets: Explore our diverse profiles to find your perfect match.
 2. Apply to Adopt: Fill out our easy adoption application to start the process.
 3. Meet and Greet: Schedule a visit to meet potential new furry friends.
